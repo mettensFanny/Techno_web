@@ -1,0 +1,15 @@
+.rendu {
+    color: green;
+}
+.nonsoumis {
+    color: red;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.ajouteBtn{
+    align-self: flex-end;
+}
